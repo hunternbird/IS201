@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 225, 169);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    color: rgb(0, 73, 11);
+}
+.zionview {
+    max-width: 25%;
+    max-height: auto;
+}
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
+.tableauPlaceholder{
+    margin: 0;
+    display: block;
+}
+#div1 {
+    background-color: rgb(255, 239, 208);
+    margin-right: 200px;
+    margin-left:200px;
+}
+#div2 {
+    background-color: rgb(255, 239, 208);
+    margin-right: 200px;
+    margin-left:200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.div3 {
+    font-style: italic;
+    border: 2px solid black;
+    margin-right: 200px;
+    margin-left:200px;
+}
